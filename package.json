@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/lamchucuocfuck/project_quan_ly_lich_phong_lab#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
