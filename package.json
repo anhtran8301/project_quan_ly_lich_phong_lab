@@ -1,0 +1,31 @@
+{
+  "name": "quan_ly_lich_phong_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamchucuocfuck/project_quan_ly_lich_phong_lab.git"
+  },
+  "keywords": [
+    "calendar",
+    "lab",
+    "manager"
+  ],
+  "author": "tuan, tuananh, ngocanh, vy, dat, duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamchucuocfuck/project_quan_ly_lich_phong_lab/issues"
+  },
+  "homepage": "https://github.com/lamchucuocfuck/project_quan_ly_lich_phong_lab#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
